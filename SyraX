@@ -1,3 +1,0 @@
-AI-Based Energy Management System
-Industries often experience high electricity costs due to unpredictable energy demand, peak power consumption, and inefficient battery utilization. Existing energy management systems lack intelligent forecasting and automated decision-making, resulting in energy wastage and increased operational expenses.
-This project addresses these challenges by using XGBoost for electricity demand prediction and Reinforcement Learning for intelligent battery charging, discharging, and energy management.
